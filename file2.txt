@@ -1,3 +1,9 @@
 file2.txt
 
+<<<<<<< HEAD
 file2 modified for developer 1
+=======
+file2 modified by developer 2
+>>>>>>> 6dbf3c3a5582ccb2d0f8b3a58c7b6200f7993339
+
+Conflict solved by developer 1
