@@ -1,3 +1,4 @@
 file3.txt
 
 Change after tag v1.0
+New change
